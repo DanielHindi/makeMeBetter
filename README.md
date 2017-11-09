@@ -10,6 +10,13 @@ To log in use:
 * email 123@123.123
 * password 123123
 
+## To get started
+To get the project going you will need NPM and NodeJs installed. once that is complete run the following from the project folder
+````
+> npm install
+> npm start
+````
+
 ## What to change
 There are several area's of this project that are either missing or just done wrong. Some are subtle and some are obvious. This is by design. 
 
