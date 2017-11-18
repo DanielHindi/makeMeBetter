@@ -23,14 +23,11 @@ There are several area's of this project that are either missing or just done wr
 So this is what I would like you to do
 
 1. After you login you see an ugly Profile UI. Fix it to look better 
-2. Create a New Feature: This feature is simple. Get the [Change Password] Functionality to work. 
-  - Add in a new API that allows the user (after logging in) to enter in a new password
-  - You can make this change in memory on the server. No need for a database
-3. Code Review the project: Go through the entire project (even your new feature) and compile a list of changes you would make to the entire project that would make it
+2. Code Review the project: Go through the entire project (even your new feature) and compile a list of changes you would make to the entire project that would make it
   - More Secure
   - Perform Better
   - Better Architecture
   - Better User Experiance
   - Better Design
 Make sure your change list is clear. Mention which file, which line when applicable. Explain how you would change it in a sentence or two
-4. For extra points see if you can implement some of your suggestions 
+3. Implement as many of your suggestions as possible
